@@ -1,8 +1,8 @@
 {
-    "keyboard_name": "Corne",
-    "maintainer": "foostan",
-    "manufacturer": "foostan",
-    "url": "https://github.com/foostan/crkbd",
+    "keyboard_name": "Corne JSM",
+    "maintainer": "JSM",
+    "manufacturer": "JSM",
+    "url": "https://github.com/JulioSM98/kbd_firmware",
     "usb": {
         "vid": "0x4653",
         "pid": "0x0001",
@@ -148,7 +148,7 @@
         "led_count": 54,
         "split": true,
         "split_count": [27, 27],
-        "max_brightness": 50,
+        "max_brightness": 99,
         "animations": {
             "alternating": true,
             "breathing": true,
@@ -167,7 +167,7 @@
     },
     "rgb_matrix": {
         "driver": "ws2812",
-        "max_brightness": 50,
+        "max_brightness": 99,
         "split_count": [27, 27],
         "animations": {
             "alphas_mods": false,
